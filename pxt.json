@@ -1,0 +1,22 @@
+{
+    "name": "github landerito",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "menudocachodeprolanderitoguayqueesunpro": "github:ldpcicnm/menudocachodeprolanderitoguayqueesunpro#f8cae377464af8d280240b244673999937c6fcb6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
